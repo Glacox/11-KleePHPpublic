@@ -1,0 +1,54 @@
+[
+    {
+        "id": "1",
+        "category": "Franchise",
+        "typology": "PETIT",
+        "name": "Magasin",
+        "adress": "Bordeaux",
+        "shop_link": "https://www.youtube.com/watch?v=KcOJwDjS6To",
+        "shop_image_link":"../img/plan.png",
+        "shop_call_link" : " "
+    },
+    {
+        "id": "2",
+        "category": "Franchise",
+        "typology": "MOYEN",
+        "name": "Magasin",
+        "adress": "Samer",
+        "shop_link": "https://trello.com/b/KM2smgW1/back-end",
+        "shop_image_link":"../img/plan.png",
+        "shop_call_link" : " "
+    },
+    {
+        "id": "3",
+        "category": "ConceptStore",
+        "typology": "MOYEN",
+        "name": "Magasin",
+        "adress": "Kamurocho",
+        "shop_link": "",
+        "shop_image_link":"../img/plan.jpg",
+        "shop_call_link" : ""
+    
+    },
+    {
+        "id": "4",
+        "category": "Franchise",
+        "typology": "PETIT",
+        "name": "Magasin",
+        "adress": "Toulouse",
+        "shop_link": "https://www.youtube.com/watch?v=NjKcb2oyaO0&t=2s",
+        "shop_image_link":"../img/plan.jpg",
+        "shop_call_link" : " "
+    },
+    {
+        "id": "5",
+        "category": "ConceptStore",
+        "typology": "GRAND",
+        "name": "Magasin",
+        "adress": "La Force",
+        "shop_link": "https://yakuza.fandom.com/wiki/Goro_Majima",
+        "shop_image_link":"../img/plan.png",
+        "shop_call_link" : " "
+    
+    }
+]
